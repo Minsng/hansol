@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: hansol
+
+  security:
+    user:
+      name: admin
+      password: admin1!
